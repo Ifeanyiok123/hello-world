@@ -1,4 +1,5 @@
 **FastAPI Code for Change Password and OTP Verification**
+
 To implement a FastAPI application that includes routes for changing a password and verifying an OTP (One-Time Password), we will follow these steps:
 
 1.	Define the Schemas: Create Pydantic models for the request bodies.
